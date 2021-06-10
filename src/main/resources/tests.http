@@ -1,0 +1,9 @@
+GET localhost:8080/students/1
+
+###
+
+GET localhost:8080/students
+
+###
+
+GET localhost:8080/group
